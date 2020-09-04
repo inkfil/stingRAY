@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# Algorithms.
 
 ## mathemathical representation of complexity.
 1. Upper Bound runtime complexity of an algorithm (Big-Oh notation)
@@ -18,4 +18,9 @@
 
 reference : 
 [Towards data science] (https://towardsdatascience.com/essential-programming-time-complexity-a95bb2608cac)
+
+
 [Wikipedia] (https://www.wikiwand.com/en/Time_complexity)
+
+# Data Structures.
+
