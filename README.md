@@ -17,12 +17,14 @@
 
 
 reference : </br>
-[Towards data science] (https://towardsdatascience.com/essential-programming-time-complexity-a95bb2608cac)</br>
-[Wikipedia] (https://www.wikiwand.com/en/Time_complexity)
+[Towards data science](https://towardsdatascience.com/essential-programming-time-complexity-a95bb2608cac)</br>
+[Wikipedia](https://www.wikiwand.com/en/Time_complexity)
 
 # Data Structures.
 
-## CPP Tools
+#### CPP Tools
 * GCC (compiler)
 * Clang (Compiler)
 * gdb (debugger)
+* Valgrind (memory debugger)
+* Vim (editor)
