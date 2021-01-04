@@ -2,6 +2,8 @@
 
 reference:
   - [Big o Cheatsheet - Data structures and Algorithms with thier complexities | HackerEarth](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
+  - [[The new edge]: python Algorithms and Data Structures]()
+  - [Algorithms repository on github](https://github.com/williamfiset/Algorithms)
 
 ## mathemathical representation of complexity.
 1. Upper Bound runtime complexity of an algorithm (Big-Oh notation)
@@ -26,11 +28,12 @@ reference : </br>
 # Data Structures.
 
 #### CPP Tools
-* GCC (compiler)
+* GCC (Compiler)
 * Clang (Compiler)
-* gdb (debugger)
-* Valgrind (memory debugger)
-* Vim (editor)
+* gdb (Debugger)
+* Valgrind (Memory Debugger)
+* Vim (God of all Editor)
+* Gpof (C++ Profilling Tool)
 
 
 ### DataStructures
@@ -108,7 +111,4 @@ reference : </br>
 * Structural Patterns
 * Behavioral Patterns
 
-### References
-[The new edge]: python Algorithms and Data Structures
 
-[https://github.com/williamfiset/Algorithms]
