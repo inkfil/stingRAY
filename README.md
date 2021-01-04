@@ -1,5 +1,8 @@
 # Algorithms.
 
+reference:
+  - [Big o Cheatsheet - Data structures and Algorithms with thier complexities | HackerEarth](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
+
 ## mathemathical representation of complexity.
 1. Upper Bound runtime complexity of an algorithm (Big-Oh notation)
 2. Strict Upper Bound runtime complexity of an algorithm (Little-Oh notation)
