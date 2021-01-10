@@ -27,17 +27,6 @@ reference : </br>
 
 # Data Structures.
 
-#### CPP Tools
-* GCC (Compiler)
-* Clang (Compiler)
-* gdb (Debugger)
-* Valgrind (Memory Debugger)
-* Vim (God of all Editor)
-* Gpof (C++ Profilling Tool)
-
-
-### DataStructures
-
 1. Arrays
 2. Lists
 3. Trees
@@ -99,16 +88,6 @@ reference : </br>
 6. Counting Sort
 6. Redix Sort
 
-
-### Array Based Structures
-
-### Tree Based Structures
-
-### Hash Based Structures
-
-
 ### Design Patterns
 * Structural Patterns
 * Behavioral Patterns
-
-
