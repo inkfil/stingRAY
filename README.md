@@ -27,34 +27,52 @@ reference : </br>
 
 # Datastructures
 
-### Strings
+### String Datastructure
+```
+linear/
+homogenous/heterogenous data elements
+
+```
 
 ### Array Datastructure
 ```
+Array (Static sized array)
 Vector (Dynamic sized array)
+
+arrays are sometimes refered to as lists
+elements stored in contiguous memory cells
+homogenous data elements
+linear datastructure
+can be indexed
+once created, cannot be resized and must be coppied to new (bigger sized) array, element wise in order to insert new elements
+
+operation that can be performed on arrays:
+insert
+delete
+traverse
+search
 ```
 
 ### Linked List Datastructure
 ```
-Single Linked List
-Double Linked List
+Single Linked List (forward traversing)
+Double Linked List (didirectional traversing)
 Circular Linked List
 ```
 
-### Queue
+### Queue Datastructure
 ```
 Priority Queue
 Dequeue
 ```
 
-### Stack
+### Stack Datastructure
 ```
 
 ```
 
-### Trees
+### Tree Datastructure
 ```
-
 Binary Search Tree
 AVL Tree / Hight Balanced Binary Tree
 Ternary Search Tree / n-ary Search Tree
@@ -79,62 +97,40 @@ Fenwick Tree
 Range Tree
 ab tree
 Quad Tree
+```
 
+### Graph Datastructure
+```
+Adjacency Matrix
+Incidence Matrix
+Adjacency List
+```
 
+### Map Datastructure
+```
+aka HashTable, HashMap, Dictionaries, Lookup Tables, Assosiative Arrays.
+Map (ordered)
+MultiMap (unordered)
+```
+
+### Set Datastructure
+```
+Set (ordered list)
+MultiSet (unordered list)
 
 ```
 
-### Graphs
-```
-
-```
-
-### Maps
-```
-
-```
-
-### Slotmap
-```
-
-```
-
-### Trie
-```
-
-```
-
-### HashSet
-```
-
-```
-
-### Hash
+### Slotmap Datastructure
 ```
 
 ```
 
-### Dictionaries
+### Trie Datastructure
 ```
 
 ```
 
-tuples
-```
-
-```
-
-pair
-```
-
-```
-
-HashTable
-```
-
-```
-
-Set
+### Pair Datastructure
 ```
 
 ```
