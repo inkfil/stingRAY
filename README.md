@@ -25,69 +25,251 @@ reference : </br>
 [Towards data science](https://towardsdatascience.com/essential-programming-time-complexity-a95bb2608cac)</br>
 [Wikipedia](https://www.wikiwand.com/en/Time_complexity)
 
-# Data Structures.
+# Datastructures
 
-1. Arrays
-2. Lists
-3. Trees
-4. Graphs
-5. Maps
-6. Queue
-7. Stack
-8. Slotmap
-9. Trie
-10. vector
-11. HashSet
-12. Hash
-13. Dictionaries
-14. tuples
-15. pair
-16. HashTable
-17. Set
-18. String
-19. Binary Search Tree
-20. AVL Tree / Hight Balanced Binary Tree
-21. Heap
-22. Ternary Search Tree / n-ary Search Tree
-23. Priority Queue
-24. Breadth First Tree
-25. Depth first Tree
-26. Spanning Tree
-27. Minimum / Maximum Spanning  Tree
-28. Red Black Tree
-29. Splay Tree
-30. Radix Tree (Trie)
-31. Suffix Tree
-32. Huffman Tree
-33. B- Tree
-34. B+ Tree
-35. Binary Tree
-36. R Tree
-37. Counted B Tree
-38. K-D Tree
-39. Decission Tree
-40. Markel Tree
-41. Fenwick Tree
-42. Range Tree
-43. ab tree
-44. Quad Tree
-45. Octress
-46. Dequeue
-47. Singly Linked List
-48. Doubly Linked List
-49. Circular Linked List
-50. Matrices
-51. Sparse Matrices
+### Strings
 
-### Algorithms
-1. Dijshtra's 
-2. Bubble Sort
-3. Insertion Sort
-4. Quick Sort
-5. Merge Sort
-6. Counting Sort
-6. Redix Sort
+### Array Datastructure
+```
+Vector (Dynamic sized array)
+```
 
-### Design Patterns
-* Structural Patterns
-* Behavioral Patterns
+### Linked List Datastructure
+```
+Single Linked List
+Double Linked List
+Circular Linked List
+```
+
+### Queue
+```
+Priority Queue
+Dequeue
+```
+
+### Stack
+```
+
+```
+
+### Trees
+```
+
+Binary Search Tree
+AVL Tree / Hight Balanced Binary Tree
+Ternary Search Tree / n-ary Search Tree
+Breadth First Tree
+Depth first Tree
+Spanning Tree
+Minimum / Maximum Spanning  Tree
+Red Black Tree
+Splay Tree
+Radix Tree (Trie)
+Suffix Tree
+Huffman Tree
+B- Tree
+B+ Tree
+Binary Tree
+R Tree
+Counted B Tree
+K-D Tree
+Decission Tree
+Markel Tree
+Fenwick Tree
+Range Tree
+ab tree
+Quad Tree
+
+
+
+```
+
+### Graphs
+```
+
+```
+
+### Maps
+```
+
+```
+
+### Slotmap
+```
+
+```
+
+### Trie
+```
+
+```
+
+### HashSet
+```
+
+```
+
+### Hash
+```
+
+```
+
+### Dictionaries
+```
+
+```
+
+tuples
+```
+
+```
+
+pair
+```
+
+```
+
+HashTable
+```
+
+```
+
+Set
+```
+
+```
+
+Heap
+```
+
+```
+
+Octress
+```
+
+```
+
+Matrices
+```
+
+```
+
+Sparse Matrices
+```
+
+```
+
+
+
+# Algorithms.
+
+### Sorting Algorithms.
+##### Bubble sort
+```
+
+```
+
+##### Insertion sort
+```
+
+```
+
+##### Selection sort
+```
+
+```
+
+##### Merge sort
+```
+
+```
+
+##### Quick sort
+```
+
+```
+
+##### Counting sort
+```
+
+```
+
+##### Redix sort
+```
+
+```
+
+##### Topological sort
+```
+
+```
+
+
+
+### Path Finding Algorithms (Singla and Multiple Agent Path Planning).
+##### A*
+```
+
+```
+
+##### space-time A*
+```
+
+```
+
+##### D*
+```
+
+```
+
+##### Theta*
+```
+
+```
+
+##### DFS (Depth First Search)
+```
+
+```
+
+##### BFS (Breadth First Search)
+```
+
+```
+
+##### Dijkshtra
+```
+
+```
+
+##### uniform cost search
+```
+
+```
+
+##### OCRA (optimal reciprocal collision avaiodance)
+```
+
+```
+
+##### JPS (Jump Point Search)
+```
+
+```
+
+##### SIPP (Safe Interval Path Planning)
+```
+
+```
+
+# Design Patterns
+### Structural Patterns
+```
+
+```
+
+### Behavioral Patterns
+```
+
+```
+
