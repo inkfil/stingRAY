@@ -27,12 +27,17 @@ reference : </br>
 
 # Datastructures
 
-### String Datastructure
-```
-linear/
-homogenous/heterogenous data elements
+[Difference between Linear and Hierarchical datastructures](https://www.tutorialspoint.com/difference-between-linear-and-non-linear-data-structures#:~:text=Non-linear%20Data%20Structures%20%20%20%20Sr.%20No.,easy%20%20...%20%203%20more%20rows%20) </br>
+[non linear datastructures](https://theknowshares.com/computerscience/datastructure/nonlinear-data-structures/)
 
 ```
+Linear data structure
+Hierarchical(Non-Linear) data structure
+Homogenous data structure
+Heterogenous data structure
+```
+
+### String Datastructure
 
 ### Array Datastructure
 ```
